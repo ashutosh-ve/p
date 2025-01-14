@@ -11,13 +11,13 @@ function CarList() {
             car.name.toLowerCase().includes(searchTerm.toLowerCase())
     );
     })
-   
+    
 
     const handleCarDelete=(car)=>{
         dispatch(removeCar(car.id));
     }
    
-
+// this is just a comment 
     
     const renderedCars= cars.map((car)=>{
         return (
