@@ -1,1 +1,1 @@
-This is a React Starter Project for use in Stephen Grider's courses on Udemy.
+This is to implement redux in the project to reduce the complicity.
